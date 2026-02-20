@@ -1,0 +1,8 @@
+src/components/BottomNav.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/pages/Explore.tsx(1,8): error TS6133: 'React' is declared but its value is never read.
+src/pages/Explore.tsx(5,70): error TS6133: 'doc' is declared but its value is never read.
+src/pages/Explore.tsx(5,75): error TS6133: 'getDoc' is declared but its value is never read.
+src/pages/Matches.tsx(1,8): error TS6133: 'React' is declared but its value is never read.
+src/pages/Onboarding.tsx(6,21): error TS6133: 'CheckCircle2' is declared but its value is never read.
+src/pages/Profile.tsx(1,8): error TS6133: 'React' is declared but its value is never read.
+src/pages/Profile.tsx(146,216): error TS1117: An object literal cannot have multiple properties with the same name.
